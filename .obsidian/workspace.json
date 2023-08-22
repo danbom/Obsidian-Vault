@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +155,50 @@
   },
   "active": "3edf181ec80b6136",
   "lastOpenFiles": [
+    "Daily/20230818.md",
+    "Daily/20230821.md",
     "Daily/20230822.md",
-    "Daily/2023-08-22.md",
+    "Daily/20230808.md",
+    "Daily/20230719.md",
+    "Daily/20230503.md",
+    "Daily/20230502.md",
+    "Daily/20230417.md",
+    "Daily/20230324.md",
+    "Daily/20230323.md",
+    "Daily/20230711.md",
+    "Daily/20230718.md",
+    "Daily/20230713.md",
+    "Daily/20230721.md",
+    "Daily/20230724.md",
+    "Pasted image 20230821184858.png",
+    "Daily/20230725.md",
+    "Daily/20230728.md",
+    "Daily/20230807.md",
+    "Daily/20230804.md",
+    "Daily/20230817.md",
+    "image (1).png",
+    "Pasted image 20230504175415.png",
+    "Pasted image 20230721091459.png",
+    "Pasted image 20230721091511.png",
+    "Pasted image 20230818135832.png",
+    "Pasted image 20230821182939.png",
+    "무제 파일 1.canvas",
+    "무제 파일 1.md",
+    "무제 파일 2.canvas",
+    "무제 파일 2.md",
+    "무제 파일 3.md",
+    "무제 파일 3.canvas",
+    "무제 파일 4.canvas",
+    "무제 파일 4.md",
+    "무제 파일 5.canvas",
+    "무제 파일 6.canvas",
+    "무제 파일 5.md",
+    "무제 파일.canvas",
+    "무제 파일.md",
+    "스프린트/스프린트_5",
+    "스프린트/스프린트_4",
+    "스프린트/스프린트_3",
+    "스프린트",
     "Daily",
     "obsidian-git"
   ]
