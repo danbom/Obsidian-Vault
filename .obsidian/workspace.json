@@ -11,8 +11,12 @@
             "id": "3edf181ec80b6136",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/20230822.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/20230822.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/20230822.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/20230822.md"
+              }
             }
           }
         ]
@@ -146,8 +154,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "66224311dda0e90a",
+  "active": "3edf181ec80b6136",
   "lastOpenFiles": [
+    "Daily/20230822.md",
+    "Daily/2023-08-22.md",
+    "Daily",
     "obsidian-git"
   ]
 }
