@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230824.md",
+                "file": "Daily/20230825.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ta/in",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230824.md",
+                "file": "Daily/20230825.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230824.md",
+                "file": "Daily/20230825.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230824.md"
+                "file": "Daily/20230825.md"
               }
             }
           }
@@ -153,13 +154,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3edf181ec80b6136",
+  "active": "2a0f117a234f99d3",
   "lastOpenFiles": [
+    "Daily/20230824.md",
+    "Daily/20230825.md",
     "Daily/20230724.md",
     "Daily/20230821.md",
     "Daily/20230320.md",
     "스프린트/스프린트_4/230502_계획.md",
-    "Daily/20230824.md",
     "Daily/20230823.md",
     "Daily/20230822.md",
     "Daily/20230721.md",
@@ -180,7 +182,6 @@
     "Daily/20230502.md",
     "Daily/20230417.md",
     "Daily/20230324.md",
-    "Daily/20230323.md",
     "Pasted image 20230821184858.png",
     "image (1).png",
     "Pasted image 20230504175415.png",
