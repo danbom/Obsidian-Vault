@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230831.md",
+                "file": "Daily/20230901.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230831.md",
+                "file": "Daily/20230901.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230831.md",
+                "file": "Daily/20230901.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230831.md"
+                "file": "Daily/20230901.md"
               }
             }
           }
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +156,9 @@
   },
   "active": "3edf181ec80b6136",
   "lastOpenFiles": [
-    "Daily/20230830.md",
     "Daily/20230831.md",
+    "Daily/20230901.md",
+    "Daily/20230830.md",
     "Daily/20230829.md",
     "Daily/20230818.md",
     "Daily/20230821.md",
@@ -181,7 +183,6 @@
     "Daily/20230313.md",
     "Daily/20230316.md",
     "Daily/20230526.md",
-    "Daily/20230719.md",
     "Pasted image 20230821184858.png",
     "image (1).png",
     "Pasted image 20230504175415.png",
