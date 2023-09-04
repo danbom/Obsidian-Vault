@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230901.md",
+                "file": "Daily/20230904.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "findings",
+                "query": "raw data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230724.md",
+                "file": "Daily/20230904.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230724.md",
+                "file": "Daily/20230904.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230724.md"
+                "file": "Daily/20230904.md"
               }
             }
           }
@@ -168,20 +167,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "da63a4391c37e070",
+  "active": "3edf181ec80b6136",
   "lastOpenFiles": [
+    "Daily/20230724.md",
     "Daily/20230821.md",
-    "Daily/20230822.md",
     "Daily/20230823.md",
-    "Daily/20230824.md",
+    "Daily/20230901.md",
+    "Daily/20230904.md",
+    "Pasted image 20230904121526.png",
     "Daily/20230818.md",
+    "Daily/20230822.md",
+    "Daily/20230808.md",
+    "Daily/20230824.md",
     "Daily/20230817.md",
     "Daily/20230807.md",
-    "Daily/20230808.md",
     "Daily/20230804.md",
-    "Daily/20230904.md",
     "Pasted image 20230904114339.png",
-    "Daily/20230901.md",
     "Pasted image 20230904111756.png",
     "Daily/20230825.md",
     "Daily/20230828.md",
@@ -191,7 +192,6 @@
     "Pasted image 20230901151812.png",
     "Pasted image 20230901150232.png",
     "Pasted image 20230828145715.png",
-    "Daily/20230724.md",
     "Daily/20230320.md",
     "스프린트/스프린트_4/230502_계획.md",
     "Daily/20230721.md",
@@ -204,7 +204,6 @@
     "image (1).png",
     "Pasted image 20230504175415.png",
     "Pasted image 20230721091459.png",
-    "Pasted image 20230721091511.png",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",
     "무제 파일 3.canvas",
