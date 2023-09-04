@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230821.md",
+                "file": "Daily/20230724.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trial design",
+                "query": "findings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230821.md",
+                "file": "Daily/20230724.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230821.md",
+                "file": "Daily/20230724.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230821.md"
+                "file": "Daily/20230724.md"
               }
             }
           }
@@ -169,20 +170,26 @@
   },
   "active": "da63a4391c37e070",
   "lastOpenFiles": [
-    "Daily/20230822.md",
-    "Daily/20230904.md",
     "Daily/20230821.md",
+    "Daily/20230822.md",
     "Daily/20230823.md",
     "Daily/20230824.md",
+    "Daily/20230818.md",
+    "Daily/20230817.md",
+    "Daily/20230807.md",
+    "Daily/20230808.md",
+    "Daily/20230804.md",
+    "Daily/20230904.md",
+    "Pasted image 20230904114339.png",
+    "Daily/20230901.md",
+    "Pasted image 20230904111756.png",
     "Daily/20230825.md",
     "Daily/20230828.md",
     "Daily/20230829.md",
     "Daily/20230830.md",
-    "Daily/20230901.md",
     "Daily/20230831.md",
     "Pasted image 20230901151812.png",
     "Pasted image 20230901150232.png",
-    "Daily/20230818.md",
     "Pasted image 20230828145715.png",
     "Daily/20230724.md",
     "Daily/20230320.md",
@@ -190,21 +197,14 @@
     "Daily/20230721.md",
     "Daily/20230728.md",
     "Daily/20230725.md",
-    "Daily/20230817.md",
-    "Daily/20230804.md",
-    "Daily/20230807.md",
-    "Daily/20230808.md",
     "Daily/20230718.md",
     "Daily/20230706.md",
     "Daily/20230313.md",
-    "Daily/20230316.md",
     "Pasted image 20230821184858.png",
     "image (1).png",
     "Pasted image 20230504175415.png",
     "Pasted image 20230721091459.png",
     "Pasted image 20230721091511.png",
-    "Pasted image 20230818135832.png",
-    "Pasted image 20230821182939.png",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",
     "무제 파일 3.canvas",
