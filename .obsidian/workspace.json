@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230906.md",
+                "file": "Daily/20230904.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230906.md",
+                "file": "Daily/20230904.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230906.md",
+                "file": "Daily/20230904.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230906.md"
+                "file": "Daily/20230904.md"
               }
             }
           }
@@ -155,9 +155,9 @@
   },
   "active": "9bc784354b305cf1",
   "lastOpenFiles": [
-    "Daily/20230904.md",
-    "Daily/20230906.md",
     "Daily/20230905.md",
+    "Daily/20230906.md",
+    "Daily/20230904.md",
     "Daily/20230830.md",
     "Daily/20230901.md",
     "Daily/20230829.md",
