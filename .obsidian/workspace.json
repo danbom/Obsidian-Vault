@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c52314ab7cdab68",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +163,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c52314ab7cdab68",
+  "active": "9bc784354b305cf1",
   "lastOpenFiles": [
     "Daily/20230911.md",
     "Daily/20230912.md",
