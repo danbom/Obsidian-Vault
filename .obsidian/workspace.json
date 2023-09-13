@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230912.md",
+                "file": "Daily/20230913.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230912.md",
+                "file": "Daily/20230913.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230912.md",
+                "file": "Daily/20230913.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230912.md"
+                "file": "Daily/20230913.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "9bc784354b305cf1",
   "lastOpenFiles": [
-    "Daily/20230911.md",
     "Daily/20230912.md",
+    "Daily/20230913.md",
+    "Daily/20230911.md",
     "conflict-files-obsidian-git.md",
     "Daily/20230907.md",
     "Daily/20230906.md",
@@ -196,7 +197,6 @@
     "스프린트/스프린트_4/230502_계획.md",
     "Daily/20230721.md",
     "Daily/20230728.md",
-    "Daily/20230725.md",
     "Pasted image 20230821184858.png",
     "image (1).png",
     "Pasted image 20230504175415.png",
