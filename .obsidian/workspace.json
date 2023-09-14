@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vers",
+                "query": "version",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
