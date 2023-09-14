@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230909.md",
+                "file": "Daily/20230821.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230909.md",
+                "file": "Daily/20230821.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230909.md",
+                "file": "Daily/20230821.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230909.md"
+                "file": "Daily/20230821.md"
               }
             }
           }
@@ -167,10 +167,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2a0f117a234f99d3",
+  "active": "3edf181ec80b6136",
   "lastOpenFiles": [
-    "Daily/20230914.md",
+    "Daily/20230913.md",
+    "Daily/20230912.md",
+    "Daily/20230911.md",
     "Daily/20230909.md",
+    "Daily/20230914.md",
     "Daily/20230907.md",
     "conflict-files-obsidian-git.md",
     "무제 파일 6.md",
@@ -195,12 +198,9 @@
     "Daily/20230828.md",
     "Daily/20230829.md",
     "Daily/20230830.md",
-    "Daily/20230831.md",
     "Pasted image 20230901151812.png",
     "Pasted image 20230901150232.png",
     "Pasted image 20230828145715.png",
-    "Daily/20230320.md",
-    "스프린트/스프린트_4/230502_계획.md",
     "Pasted image 20230821184858.png",
     "image (1).png",
     "Pasted image 20230504175415.png",
