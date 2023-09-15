@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +178,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "96ce69573348dd5f",
+  "active": "f0b3af134750779d",
   "lastOpenFiles": [
     "Daily/20230904.md",
     "Daily/20230905.md",
