@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "순서",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,6 +178,7 @@
   },
   "active": "96ce69573348dd5f",
   "lastOpenFiles": [
+    "Daily/20230821.md",
     "Daily/20230915.md",
     "Daily/20230914.md",
     "Daily/20230909.md",
@@ -203,7 +204,6 @@
     "Daily/20230902.md",
     "Daily/20230831.md",
     "Daily/20230818.md",
-    "Daily/20230821.md",
     "Daily/20230822.md",
     "Daily/20230824.md",
     "Daily/20230825.md",
