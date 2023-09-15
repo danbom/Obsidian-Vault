@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "순서",
+                "query": "ecrf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "96ce69573348dd5f",
+  "active": "2a0f117a234f99d3",
   "lastOpenFiles": [
     "Daily/20230821.md",
     "Daily/20230915.md",
