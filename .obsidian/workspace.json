@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20230915.md",
+                "file": "Daily/20230918.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230915.md",
+                "file": "Daily/20230918.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230915.md",
+                "file": "Daily/20230918.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230915.md"
+                "file": "Daily/20230918.md"
               }
             }
           },
@@ -178,8 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f0b3af134750779d",
+  "active": "96ce69573348dd5f",
   "lastOpenFiles": [
+    "Daily/20230913.md",
+    "Daily/20230918.md",
     "Daily/20230904.md",
     "Daily/20230905.md",
     "Daily/20230906.md",
@@ -187,7 +189,6 @@
     "Daily/20230909.md",
     "Daily/20230911.md",
     "Daily/20230912.md",
-    "Daily/20230913.md",
     "Daily/20230914.md",
     "Daily/20230915.md",
     "Daily/20230821.md",
@@ -211,7 +212,6 @@
     "Daily/20230825.md",
     "Pasted image 20230828145715.png",
     "Daily/20230724.md",
-    "Daily/20230320.md",
     "Pasted image 20230821184858.png",
     "image (1).png",
     "Pasted image 20230504175415.png",
