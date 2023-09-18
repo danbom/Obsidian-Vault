@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f77de-cc4e-4d71-b7c9-ab66a0b1ef74" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20230901.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20230901.md" afterDir="false" />
-    </list>
+    <list default="true" id="461f77de-cc4e-4d71-b7c9-ab66a0b1ef74" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2Uabbz04SdLWzBPYPxDJjiXPdYR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +30,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,6 +44,7 @@
       <updated>1693180722253</updated>
       <workItem from="1693180722254" duration="7000" />
       <workItem from="1693563112995" duration="597000" />
+      <workItem from="1695012317863" duration="23000" />
     </task>
     <servers />
   </component>
