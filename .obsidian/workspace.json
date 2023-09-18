@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed195a0b42301f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/20230918.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,12 +190,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "96ce69573348dd5f",
+  "active": "ed195a0b42301f81",
   "lastOpenFiles": [
     "Daily/20230915.md",
+    "Daily/20230918.md",
     "Daily/20230914.md",
     "Daily/20230913.md",
-    "Daily/20230918.md",
     "Daily/20230904.md",
     "Daily/20230905.md",
     "Daily/20230906.md",
