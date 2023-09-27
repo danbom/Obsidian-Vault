@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d86e4456316acf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/20230927.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataset",
+                "query": "codelist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,12 +203,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ed195a0b42301f81",
+  "active": "6d86e4456316acf7",
   "lastOpenFiles": [
+    "Daily/20230901.md",
+    "Daily/20230904.md",
+    "Daily/20230915.md",
     "Daily/20230919.md",
     "Daily/20230927.md",
     "Daily/20230918.md",
-    "Daily/20230915.md",
     "Daily/20230821.md",
     "Daily/20230818.md",
     "Daily/20230808.md",
@@ -204,7 +219,6 @@
     "Daily/20230711.md",
     "Daily/20230612.md",
     "Daily/20230913.md",
-    "Daily/20230904.md",
     "Daily/20230905.md",
     "Daily/20230906.md",
     "Daily/20230907.md",
@@ -213,7 +227,6 @@
     "Daily/20230912.md",
     "conflict-files-obsidian-git.md",
     "Daily/20230830.md",
-    "Daily/20230901.md",
     "Daily/20230829.md",
     "Daily/20230823.md",
     "Daily/20230828.md",
