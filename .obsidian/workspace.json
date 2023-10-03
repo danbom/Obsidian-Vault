@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71aae2a29e22bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/20231004.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95bad33920ce58d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20230927.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20230927.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20230927.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -203,13 +227,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6d86e4456316acf7",
+  "active": "95bad33920ce58d7",
   "lastOpenFiles": [
+    "Daily/20231004.md",
+    "conflict-files-obsidian-git.md",
+    "Daily/20230927.md",
+    "Daily/20230926.md",
+    "Daily/20230925.md",
+    "Daily/20230921.md",
+    "Daily/20230920.md",
+    "Daily/20230917.md",
     "Daily/20230901.md",
     "Daily/20230904.md",
     "Daily/20230915.md",
     "Daily/20230919.md",
-    "Daily/20230927.md",
     "Daily/20230918.md",
     "Daily/20230821.md",
     "Daily/20230818.md",
@@ -224,13 +255,6 @@
     "Daily/20230907.md",
     "Daily/20230909.md",
     "Daily/20230911.md",
-    "Daily/20230912.md",
-    "conflict-files-obsidian-git.md",
-    "Daily/20230830.md",
-    "Daily/20230829.md",
-    "Daily/20230823.md",
-    "Daily/20230828.md",
-    "무제 파일 6.md",
     "Pasted image 20230904121526.png",
     "Pasted image 20230904114339.png",
     "Pasted image 20230904111756.png",
