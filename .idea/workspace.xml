@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="461f77de-cc4e-4d71-b7c9-ab66a0b1ef74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Daily/20231121.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20230706.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20230706.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20230721.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20230721.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20230724.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20230724.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20230821.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20230821.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20230915.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20230915.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20231117.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20231117.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/스프린트/스프린트_4/230502_계획.md" beforeDir="false" afterPath="$PROJECT_DIR$/스프린트/스프린트_4/230502_계획.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/스프린트/스프린트_5/20230515_계획.md" beforeDir="false" afterPath="$PROJECT_DIR$/스프린트/스프린트_5/20230515_계획.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ccom1416/Documents/Obsidian-Vault",
+    "last_opened_file_path": "C:/Users/ccom1416/OneDrive - C&R Research/문서/Obsidian-Vault/Daily",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +59,9 @@
       <workItem from="1696383799632" duration="593000" />
       <workItem from="1696897660907" duration="592000" />
       <workItem from="1697414429087" duration="6000" />
-      <workItem from="1700194900809" duration="4438000" />
+      <workItem from="1700194900809" duration="4596000" />
+      <workItem from="1700405889731" duration="30000" />
+      <workItem from="1700526082741" duration="304000" />
     </task>
     <servers />
   </component>
