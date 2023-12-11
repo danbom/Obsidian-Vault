@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f77de-cc4e-4d71-b7c9-ab66a0b1ef74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Daily/20231208.md" afterDir="false" />
+    <list default="true" id="461f77de-cc4e-4d71-b7c9-ab66a0b1ef74" name="Changes" comment="backup: 2023-12-08 09:37:56">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/20231207.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20231207.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily/20231208.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/20231208.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,11 +83,25 @@
       <workItem from="1701844698069" duration="1807000" />
       <workItem from="1701910221654" duration="1293000" />
       <workItem from="1701962985222" duration="389000" />
-      <workItem from="1701995802315" duration="38000" />
+      <workItem from="1701995802315" duration="1869000" />
+      <workItem from="1702012681914" duration="1310000" />
     </task>
+    <task id="LOCAL-00001" summary="backup: 2023-12-08 09:37:56">
+      <option name="closed" value="true" />
+      <created>1701995880527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701995880527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="backup: 2023-12-08 09:37:56" />
+    <option name="LAST_COMMIT_MESSAGE" value="backup: 2023-12-08 09:37:56" />
   </component>
 </project>
