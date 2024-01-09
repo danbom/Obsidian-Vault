@@ -1,6 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "Tokyo Night",
-  "textFontFamily": "KoPubWorld돋움체,IM혜민",
-  "baseFontSize": 14
+  "accentColor": "#5c9aff",
+  "cssTheme": "",
+  "textFontFamily": "Yeongdeok Sea,KoPubWorld돋움체,IM혜민",
+  "baseFontSize": 14,
+  "theme": "system",
+  "interfaceFontFamily": ""
 }

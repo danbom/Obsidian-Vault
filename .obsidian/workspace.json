@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20240109.md",
+                "file": "Daily/20231214.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20240109.md",
+                "file": "Daily/20231214.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20240109.md",
+                "file": "Daily/20231214.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20240109.md"
+                "file": "Daily/20231214.md"
               }
             }
           },
@@ -231,6 +230,7 @@
   "active": "c6370e173ebac191",
   "lastOpenFiles": [
     "Daily/20240109.md",
+    "Daily/20231214.md",
     "Daily/20240104.md",
     "Daily/20231027.md",
     "Daily/20231030.md",
@@ -256,7 +256,6 @@
     "Daily/20230518.md",
     "Daily/20230609 🔔.md",
     "Daily/20230817.md",
-    "Daily/20230821.md",
     "Pasted image 20230904114339.png",
     "Pasted image 20230904111756.png",
     "Pasted image 20230901151812.png",
