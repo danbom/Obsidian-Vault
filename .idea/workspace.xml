@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="461f77de-cc4e-4d71-b7c9-ab66a0b1ef74" name="Changes" comment="backup: 2023-12-08 09:37:56">
-      <change afterPath="$PROJECT_DIR$/Daily/20231214.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,7 @@
       <workItem from="1702512067608" duration="6246000" />
       <workItem from="1702532756159" duration="4059000" />
       <workItem from="1702537669728" duration="4688000" />
+      <workItem from="1704334891334" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="backup: 2023-12-08 09:37:56">
       <option name="closed" value="true" />
