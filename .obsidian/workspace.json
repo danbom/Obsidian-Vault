@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/20240109.md",
+                "file": "Daily/20240326.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/20240109.md",
+                "file": "Daily/20240326.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/20240109.md",
+                "file": "Daily/20240326.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/20240109.md"
+                "file": "Daily/20240326.md"
               }
             }
           },
@@ -229,10 +229,11 @@
   },
   "active": "c6370e173ebac191",
   "lastOpenFiles": [
+    "Daily/20240109.md",
+    "Daily/20240326.md",
     "Pasted image 20240109140834.png",
     "Pasted image 20240109140825.png",
     "Daily/20231214.md",
-    "Daily/20240109.md",
     "Daily/20240104.md",
     "Daily/20231027.md",
     "Daily/20231030.md",
@@ -264,7 +265,6 @@
     "Pasted image 20230828145715.png",
     "Pasted image 20230821184858.png",
     "image (1).png",
-    "Pasted image 20230504175415.png",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",
     "무제 파일 3.canvas",
